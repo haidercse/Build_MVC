@@ -1,0 +1,13 @@
+{
+    "name": "user/build_mvc",
+    "authors": [{
+        "name": "haider-cse",
+        "email": "haider.cse7644@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
